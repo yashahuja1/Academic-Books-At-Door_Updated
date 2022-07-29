@@ -1,0 +1,55 @@
+body{
+    background-image: url(/Images/books_6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.inp{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 30%;
+}
+
+.sin{
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 18px;
+}
+.sin-btn{
+    margin: 10px 30%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 18px;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+}
+
+.sec2{
+    text-align: center;
+    color: white;
+}
+
+.sec2 a{
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+section{
+    /* margin-top: 12%; */
+    margin-right: 200px;
+    margin-left: 200px;
+    padding: 10px;
+    border: solid white;
+    background-color: rgb(27, 43, 99);
+}
